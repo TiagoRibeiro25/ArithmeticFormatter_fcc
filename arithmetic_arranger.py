@@ -26,13 +26,13 @@ def arithmetic_arranger(problems, display_result=False):
 
     """ SOLVE PROBLEMS """
 
-    # first number
+    # first numbers
     first_row = ""
-    # operator and number
+    # operators and numbers
     second_row = ""
     # dashes
     third_row = ""
-    # solution
+    # solutions
     fourth_row = ""
 
     # First Row
