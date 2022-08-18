@@ -35,7 +35,6 @@ def arithmetic_arranger(problems, display_result=False):
     # solutions
     fourth_row = ""
 
-    # First Row
     for problem in problems:
         math_problem = problem.split()
         operator = math_problem[1]
